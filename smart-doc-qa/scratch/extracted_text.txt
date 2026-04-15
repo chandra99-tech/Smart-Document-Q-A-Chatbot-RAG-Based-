@@ -1,0 +1,49 @@
+CHANDRAKANT PALANDURKAR
+Pune, India  |  +91 7666942033  |  chandra99iit@gmail.com  |  LinkedIn  |  GitHub
+Java Full Stack Developer with 1+ year of experience building scalable web applications using Core Java, Spring Boot, Hibernate, 
+React.js, MySQL, and RESTful APIs. Proficient in JWT authentication, Spring Security, RBAC, and Microsoft Azure deployment. 
+CDAC PGDAC certified (2026, 1st in Class) with B.E. in Electronics & Telecommunication. Skilled in Agile/Scrum, Git/GitHub, and 
+CI/CD pipelines.
+TECHNICAL SKILLS
+LanguagesJava (8/11/17), JavaScript, C++, .NET
+BackendSpring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful Services, JWT, 
+Microservices, ASP.NET Core
+FrontendReact.js, HTML5, CSS3, Bootstrap, Axios, Vite
+DatabaseMySQL, SQL, JDBC, JPA, Entity Framework, Database Design
+Cloud/DevOpsMicrosoft Azure, Docker, Git, GitHub, CI/CD, Maven, Jenkins
+ToolsPostman, IntelliJ IDEA, Eclipse, VS Code
+ConceptsOOP, DSA, MVC Architecture, Web App Security, Agile/Scrum, SDLC
+AI/ML ToolsGitHub Copilot, ChatGPT, Claude AI Certification, Cursor AI, OpenAI API Integration, Prompt 
+Engineering
+EXPERIENCE
+Java Full Stack Developer Intern,  Lotus Export, Gondia Jan 2025 – Aug 2025
+▸Built Core Java modules using OOP principles and implemented HTML5/CSS3/Bootstrap + React.js UI components, 
+contributing directly to 3 production features shipped on schedule.
+▸Wrote and tested SQL queries using MySQL and JDBC; performed API validation in Postman — reducing defect rate by 25% 
+during development cycles.
+▸Collaborated via Git/GitHub (branching, PRs, code reviews) within an Agile/Scrum team, maintaining code quality and on-time  
+sprint delivery.
+PROJECTS
+Digital Health Card  | React.js · Spring Boot · ASP.NET Core · MySQL · Azure · JWT · RBAC   →  github.com/chandra99-tech/DIGITAL_HEALTH_CARD
+▸Architected RBAC system for 5 roles (Patient, Doctor, Hospital, Lab, Admin) with 12+ RESTful API endpoints — achieving 
+zero unauthorized access incidents post-deployment.
+▸Designed normalized MySQL schema; deployed to Microsoft Azure achieving 24/7 uptime and cutting manual record-keeping 
+effort by ~40%.
+▸Features: Digital Health Records, Prescriptions, Lab Reports, and Emergency Access for authorized personnel.
+KnowledgeBase  | React.js · Spring Boot · Spring Security · JWT · MySQL · JPA · OpenAI API   →  github.com/chandra99-tech/knowledgeBaseBackEnd
+▸Implemented 4-layer Spring Boot backend (Controller, Service, Repository, Security) with 15+ REST endpoints and stateless 
+JWT authentication — zero unauthorized access in testing.
+▸Integrated OpenAI API for auto-tagging and content improvement, reducing manual curation by ~50%; built glassmorphism 
+React.js UI with dark mode and Axios interceptors.
+▸Resolved CORS/403 issues via Spring SecurityConfig; MySQL + JPA schema maintained integrity across 500+ test records.
+Smart Lavatory IoT System  | C · Embedded C · PIR Sensors · Microcontroller
+▸Designed PIR sensor-based IoT system to automate water/electricity control on occupancy — reduced utility wastage by 
+~30% in public facilities, eliminating manual intervention.
+EDUCATION
+Post Graduate Diploma in Advanced Computing (PGDAC)   |  C-DAC Pune 2026
+Score: 78%  |  1st in Class  |  Specialization: Advanced Computing
+B.E. Electronics & Telecommunication   |  GCE Nagpur 2020
+CGPA: 8.4/10
+Certifications: Web Development (React.js), SQL/DBMS, CDAC PGDAC     |  Achievements: 1st Rank – District-Level Speech 
+Competition; Event Management Lead, Unnat Bharat Abhiyan
+Languages: English (Professional)  |  Hindi & Marathi (Native)     |  Interests: Yoga · Badminton · Reading

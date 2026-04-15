@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+*.egg
+faiss_index/
+chroma_db/
+uploads/
+backend-python/.env
+
+# Java
+target/
+*.class
+*.jar
+*.war
+.mvn/
+backend-java/.env
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Docker
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
